@@ -733,7 +733,6 @@ $inputs = [
     'XLV' => ['VTR', 'TGD'],
 ];
 
-$exit = false;
 $next = 'AAA';
 $count = 0;
 
